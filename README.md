@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JUNHYUNJEONG
-- 👀 I’m interested in C# & Winform
-- 🌱 I’m currently learning C#, Winform, SQL etc..
+- 👀 I’m interested in C# & Winforms
+- 🌱 I’m currently learning C#, Winforms, SQL etc..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
